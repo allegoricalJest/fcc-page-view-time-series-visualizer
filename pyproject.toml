@@ -1,0 +1,10 @@
+[tool]
+[tool.poetry]
+authors = ["Jeff Chan <2jeffreychan@gmail.com>"]
+description = ""
+name = "root"
+version = "0.0.0"
+[tool.poetry.dependencies]
+pandas = "*"
+python = "^3.8"
+seaborn = "*"
